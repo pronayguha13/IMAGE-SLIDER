@@ -1,0 +1,7 @@
+/* this file is to be linked with index.html */
+body {
+  margin: 0 40%;
+}
+p {
+  font-size: 30px;
+}
