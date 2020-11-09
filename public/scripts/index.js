@@ -9,7 +9,7 @@ const imageChangeHandler = (direction) => {
   //if direction is 'next' increase the index
   if (direction === "next") {
     //if index >imageArray.length => index = 0
-    if (index + 1 > imageArray.length) {
+    if (index + 1 > imageArray.length - 1) {
       index = 0;
     } else {
       index += 1;

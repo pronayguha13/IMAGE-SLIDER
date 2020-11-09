@@ -1,7 +1,14 @@
-/* this file is to be linked with index.html */
-body {
-  margin: 0 40%;
+#card {
+  /* margin: auto; */
+  width: 50%;
+  position: absolute;
+  left: 25%;
+  height: 50%;
+  top: 30%;
 }
-p {
-  font-size: 30px;
+
+#imageContainer {
+  margin: auto;
+  width: 90%;
+  height: 24rem;
 }
