@@ -1,5 +1,4 @@
 const imageArray = ["1.jpg", "2.jpg", "3.jpg", "4.jpg", "5.jpg"]; //declaration of array of the image name
-console.log("imageArray", imageArray.length);
 
 //declare function for handling image switch based on the direction parameter
 const imageChangeHandler = (direction) => {

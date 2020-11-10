@@ -11,4 +11,20 @@
   margin: auto;
   width: 90%;
   height: 24rem;
+  border: 10px solid #af2d2d;
+}
+button {
+  position: absolute;
+  top: 50%;
+  margin-left: -3%;
+  height: 15%;
+  width: 7%;
+  color: #214252;
+  background-color: #f05454;
+  font-size: 2rem;
+  border: 1px solid #fff;
+}
+
+button:active {
+  outline: none;
 }
