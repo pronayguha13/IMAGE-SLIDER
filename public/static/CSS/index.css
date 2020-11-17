@@ -1,8 +1,8 @@
 #card {
   /* margin: auto; */
-  width: 50%;
+  width: 30%;
   position: absolute;
-  left: 25%;
+  left: 35%;
   height: 50%;
   top: 30%;
 }
@@ -15,7 +15,7 @@
 }
 button {
   position: absolute;
-  top: 50%;
+  top: 37%;
   margin-left: -3%;
   height: 15%;
   width: 7%;
